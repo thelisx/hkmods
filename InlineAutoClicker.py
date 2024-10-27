@@ -1,4 +1,5 @@
 #developer: @thelisx
+#repos: https://github.com/thelisx/hkmods
 
 #============================================
 
