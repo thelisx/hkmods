@@ -1,7 +1,7 @@
 from .. import loader, utils
 import requests
 import json
-__version__ = "v1"
+
 @loader.tds
 class LinkShortener(loader.Module):
     """Модуль для сокращения ссылок через TinyURL
