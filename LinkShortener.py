@@ -5,7 +5,7 @@ __version__ = "v1"
 @loader.tds
 class LinkShortener(loader.Module):
     """Модуль для сокращения ссылок через TinyURL
-    <i>dev:@thelisx</i>"""
+    dev:@thelisx"""
     strings = {"name": "LinkShortener"}
 
     async def slinkcmd(self, message):
